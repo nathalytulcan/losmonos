@@ -1,5 +1,3 @@
-npm i @vercel/speed-insights
-import { SpeedInsights } from "@vercel/speed-insights/next"
 document.addEventListener("DOMContentLoaded", function() {
     var desMenu = document.querySelector(".des_menu");
     var selectMenu = document.querySelector(".select_menu");
